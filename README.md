@@ -20,7 +20,7 @@
 [//]: # (</p>)
 
 ## Quick Preview
-<b>ACCon </b> is complementary to conventional imbalanced learning techniques. The following code snippent shows the implementation of ConR for the task of Age estimation
+<b>ACCon </b> is complementary to conventional imbalanced learning techniques. The following code snippent shows the implementation of ACCon loss for the task of Age estimation
 
 ```python
     def forward(self, features, labels=None):
@@ -73,14 +73,6 @@
 
 ```
 
-## Usage
-
-Please go into the sub-folder to run experiments for different datasets. 
-
-- [IMDB-WIKI](./imdb-wiki)
-- [AgeDB](./agedb)
-- [STS-B](./sts-b)
-
 
 ## Acknowledgment
 
@@ -88,3 +80,6 @@ The code is based on
 [Yang et al., Delving into Deep Imbalanced Regression, ICML 2021](https://github.com/YyzHarry/imbalanced-regression/tree/main/imdb-wiki-dir), 
 [Ren et al.,Balanced MSE for Imbalanced Visual Regression, CVPR 2022](https://github.com/jiawei-ren/BalancedMSE), 
 and [Keramati et al., ConR: Contrastive Regularizer for Deep Imbalanced Regression](https://github.com/BorealisAI/ConR). 
+
+## cite
+
