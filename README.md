@@ -2,22 +2,6 @@
 
 
 
-<p align="center">
-    <img src="pic/motivation.png" width="700"> <br>
-
-[//]: # (<b>ConR </b> key insights. a&#41; Without ConR, it)
-
-[//]: # (is common to have minority examples mixed with)
-
-[//]: # (majority examples. b&#41; ConR adds additional loss)
-
-[//]: # (weight for minority, and mis-labelled examples,)
-
-[//]: # (resulting in better feature representations and c&#41;)
-
-[//]: # (better prediction error.)
-
-[//]: # (</p>)
 
 ## Quick Preview
 <b>ACCon </b> is complementary to conventional imbalanced learning techniques. The following code snippent shows the implementation of ACCon loss for the task of Age estimation
@@ -83,3 +67,4 @@ and [Keramati et al., ConR: Contrastive Regularizer for Deep Imbalanced Regressi
 
 ## cite
 
+Zhao, B., Qu, X., Kang, Z., Peng, J., Xiao, J., & Wang, J. (2025). ACCon: Angle-Compensated Contrastive Regularizer for Deep Regression. arXiv preprint arXiv:2501.07045.
