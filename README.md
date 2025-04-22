@@ -64,7 +64,3 @@ The code is based on
 [Yang et al., Delving into Deep Imbalanced Regression, ICML 2021](https://github.com/YyzHarry/imbalanced-regression/tree/main/imdb-wiki-dir), 
 [Ren et al.,Balanced MSE for Imbalanced Visual Regression, CVPR 2022](https://github.com/jiawei-ren/BalancedMSE), 
 and [Keramati et al., ConR: Contrastive Regularizer for Deep Imbalanced Regression](https://github.com/BorealisAI/ConR). 
-
-## cite
-
-Zhao, B., Qu, X., Kang, Z., Peng, J., Xiao, J., & Wang, J. (2025). ACCon: Angle-Compensated Contrastive Regularizer for Deep Regression. arXiv preprint arXiv:2501.07045.
